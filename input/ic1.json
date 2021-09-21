@@ -1,0 +1,10 @@
+{
+    "Name": "Mint Chocolate Chips",
+    "Flavor": "Mint",
+    "Base": "Oat Milk",
+    "Toppings": [
+        "Chocolate Chips",
+        "Almonds",
+        "joke"
+    ]
+}
