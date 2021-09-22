@@ -6,6 +6,7 @@ type IceCream struct {
 	Name string
 	Flavor string
 	Base string
-	Toppings []string	
+	Toppings []string
+	Id int64	
 }
 

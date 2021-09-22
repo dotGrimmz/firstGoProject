@@ -1,6 +1,10 @@
 {
- "Name" : "Butter is Better",
- "Flavor": "Butter Pecan",
- "Base": "Oat Milk",
- "Toppings": [ "Pecans", "M&Ms", "Chocolate Chips"]
+    "Name": "Butter is Worse",
+    "Flavor": "Butter Pecan",
+    "Base": "Oat Milk",
+    "Toppings": [
+        "Pecans",
+        "M&Ms",
+        "Chocolate Chips"
+    ]
 }
